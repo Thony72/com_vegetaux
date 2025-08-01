@@ -1,13 +1,13 @@
 ### JCB! Joomla Component
-# Végétaux (v0.0.2)
-## com_vegetaux (Vegetaux)
+# Vegetaux (v0.0.3)
+## Vegetaux (Vegetaux)
 
 > Composant de test pour base végétaux
 
 Ce composant permet de gérer une base de données de végétaux en plusieurs tables.
 
 ### Company Details
-- AS Devel
+- A.S Devel
 - Anthony Sagot
 - [email](mailto:contact@exemple.fr)
 - [website](https://monsite.fr)
