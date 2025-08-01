@@ -1,6 +1,6 @@
 {
-    "system_name": "d\u00e9nomination",
-    "name": "d\u00e9nomination",
+    "system_name": "Denomination",
+    "name": "Denomination",
     "description": "Vue publique de la table D\u00e9nomination",
     "main_get": "1f65a373-361e-429d-a6f6-8aa224c7b676",
     "add_php_jview_display": 0,
