@@ -1,5 +1,5 @@
 ### JCB! Site View
-# dénomination (denomination)
+# Denomination (denomination)
 
 Vue publique de la table Dénomination
 
