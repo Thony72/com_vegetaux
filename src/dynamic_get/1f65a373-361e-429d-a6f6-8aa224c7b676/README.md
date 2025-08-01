@@ -1,10 +1,10 @@
 ### JCB! Dynamic Get
-# Get Dénominations
+# Get Denominations
 
 ## Back-end View | getListQuery
 
 ### Main Focus
-**Table: Dnomination**
+**Table: Denomination**
 ```
 a.*
 ```
