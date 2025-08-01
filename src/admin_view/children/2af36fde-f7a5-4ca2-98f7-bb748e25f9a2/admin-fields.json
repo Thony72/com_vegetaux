@@ -1,0 +1,51 @@
+{
+    "admin_view": "2af36fde-f7a5-4ca2-98f7-bb748e25f9a2",
+    "addfields": {
+        "0": {
+            "field": "9bcceeda-7913-4f9a-892b-2ee6b08d2852",
+            "list": "",
+            "order_list": "0",
+            "sort": "1",
+            "search": "1",
+            "filter": "1",
+            "tab": "1",
+            "alignment": 1,
+            "order_edit": "0"
+        },
+        "1": {
+            "field": "4b43dd2f-2746-41c3-b78f-745ae94dd87c",
+            "list": "",
+            "order_list": "0",
+            "title": "1",
+            "sort": "1",
+            "search": "1",
+            "filter": "1",
+            "tab": "1",
+            "alignment": 1,
+            "order_edit": "1"
+        }
+    },
+    "@dependencies": [
+        {
+            "key": "guid",
+            "value": "2af36fde-f7a5-4ca2-98f7-bb748e25f9a2",
+            "entity": "admin_view",
+            "table": "#__componentbuilder_admin_view",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "9bcceeda-7913-4f9a-892b-2ee6b08d2852",
+            "entity": "field",
+            "table": "#__componentbuilder_field",
+            "direction": "out"
+        },
+        {
+            "key": "guid",
+            "value": "4b43dd2f-2746-41c3-b78f-745ae94dd87c",
+            "entity": "field",
+            "table": "#__componentbuilder_field",
+            "direction": "out"
+        }
+    ]
+}
