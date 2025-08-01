@@ -1,5 +1,5 @@
 ### JCB! Admin View
-# Dénomination (Dnomination:Dnominations)
+# Denomination (Denomination:Denominations)
 
 > Vue admin pour la table vegetaux_denomination
 
