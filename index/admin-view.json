@@ -1,0 +1,9 @@
+{
+    "2af36fde-f7a5-4ca2-98f7-bb748e25f9a2": {
+        "name": "D\u00e9nomination",
+        "path": "src\/admin_view\/2af36fde-f7a5-4ca2-98f7-bb748e25f9a2",
+        "settings": "src\/admin_view\/2af36fde-f7a5-4ca2-98f7-bb748e25f9a2\/item.json",
+        "guid": "2af36fde-f7a5-4ca2-98f7-bb748e25f9a2",
+        "desc": "Vue admin pour la table vegetaux_denomination"
+    }
+}
