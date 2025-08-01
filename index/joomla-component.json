@@ -1,0 +1,9 @@
+{
+    "4c387506-5203-4b91-9863-8943ff275d4c": {
+        "name": "com_vegetaux",
+        "path": "src\/joomla_component\/4c387506-5203-4b91-9863-8943ff275d4c",
+        "settings": "src\/joomla_component\/4c387506-5203-4b91-9863-8943ff275d4c\/item.json",
+        "guid": "4c387506-5203-4b91-9863-8943ff275d4c",
+        "desc": "Composant de test pour base v\u00e9g\u00e9taux"
+    }
+}
