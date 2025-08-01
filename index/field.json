@@ -1,0 +1,14 @@
+{
+    "4b43dd2f-2746-41c3-b78f-745ae94dd87c": {
+        "name": "Genre",
+        "path": "src\/field\/4b43dd2f-2746-41c3-b78f-745ae94dd87c",
+        "settings": "src\/field\/4b43dd2f-2746-41c3-b78f-745ae94dd87c\/item.json",
+        "guid": "4b43dd2f-2746-41c3-b78f-745ae94dd87c"
+    },
+    "9bcceeda-7913-4f9a-892b-2ee6b08d2852": {
+        "name": "Id",
+        "path": "src\/field\/9bcceeda-7913-4f9a-892b-2ee6b08d2852",
+        "settings": "src\/field\/9bcceeda-7913-4f9a-892b-2ee6b08d2852\/item.json",
+        "guid": "9bcceeda-7913-4f9a-892b-2ee6b08d2852"
+    }
+}
